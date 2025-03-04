@@ -1,18 +1,18 @@
 <mxlibrary>[
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"ellipse;fillColor=#000000;strokeColor=none;fillStyle=solid;sketch=1;rounded=1;glass=0;jiggle=0.9;disableMultiStroke=0;disableMultiStrokeFill=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=#333333;html=1;rotatable=0;resizable=0;connectable=1;allowArrows=1;recursiveResize=0;expand=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30.000000000000004,
-    "h": 30.000000000000004,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"ellipse;fillColor=#000000;strokeColor=#000000;fillStyle=solid;sketch=1;rounded=1;glass=0;jiggle=0.4;disableMultiStroke=1;disableMultiStrokeFill=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=#333333;html=1;rotatable=0;resizable=0;connectable=1;allowArrows=1;recursiveResize=0;expand=0;points=[];simplification=1;strokeWidth=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 30,
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;rounded=1;glass=0;sketch=1;jiggle=0.9;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#333333;strokeWidth=1;perimeterSpacing=0;allowArrows=0;expand=0;recursiveResize=0;rotatable=0;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"36\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 36,
-    "h": 36,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(fVJbCsMgEDyN/6L0ACVt72HMpi4RFbVNc/tqTD9MYkGE2ZF5qIR3QQkHhFFF+I0wxmnaEpxrKIIDGcvsLTyKXkNhQvR2ghmHuCmgUeAxZpbfCb2mM3nxTlpjkghaE3YMYY822Qs5Pb19maEifjRojS7kBp/ifym5lgptddhWR9Uw+R8TNXx5N1oPfwKNqHW5lBPlZmpapT5/hN0TtbSb5mutQ/p1Wn7BOvgC);whiteSpace=wrap;html=1;fillColor=#000000;rotation=0;sketch=1;curveFitting=1;jiggle=0.4;disableMultiStroke=1;simplification=1;strokeWidth=2;perimeter=ellipsePerimeter;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;fillStyle=solid;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 30,
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;glass=0;sketch=1;jiggle=0.9;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=#333333;strokeColor=#000000;strokeWidth=2;fillColor=none;recursiveResize=0;expand=0;rotatable=0;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"31\" height=\"31\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;glass=0;sketch=1;jiggle=0.5;disableMultiStroke=1;disableMultiStrokeFill=0;fillStyle=solid;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=#333333;strokeColor=#000000;strokeWidth=2;fillColor=none;recursiveResize=0;expand=0;rotatable=0;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"31\" height=\"31\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 31,
     "h": 31,
     "aspect": "fixed"
