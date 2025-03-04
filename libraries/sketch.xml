@@ -18,6 +18,12 @@
     "aspect": "fixed"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Timed event\" style=\"shape=collate;html=1;rounded=1;glass=0;fontColor=#333333;strokeColor=#000000;strokeWidth=2;fillColor=none;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=top;align=center;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;spacing=6;jiggle=0.5;disableMultiStroke=1;disableMultiStrokeFill=0;fillStyle=solid;perimeter=ellipsePerimeter;points=[];rotatable=0;expand=0;recursiveResize=0;perimeterSpacing=12;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Action\" style=\"html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=#333333;strokeColor=#000000;strokeWidth=2;fillColor=none;glass=0;jiggle=0.9;disableMultiStroke=1;disableMultiStrokeFill=0;fillStyle=solid;resizeWidth=0;autosize=1;spacing=6;fontStyle=1;spacingLeft=6;spacingRight=6;points=[[0,0.5,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"86\" height=\"42\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 86,
     "h": 42,
@@ -87,12 +93,6 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;comment&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" style=\"shape=note2;boundedLbl=1;size=17;verticalAlign=middle;align=left;rounded=1;shadow=0;glass=0;sketch=1;jiggle=0.9;disableMultiStroke=1;disableMultiStrokeFill=1;fillStyle=solid;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#333333;strokeColor=default;strokeWidth=2;fillColor=none;html=1;whiteSpace=wrap;autosize=1;spacingLeft=0;spacing=12;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"101\" height=\"47\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 101,
     "h": 47,
-    "aspect": "fixed"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Timed event\" style=\"shape=collate;html=1;rounded=1;glass=0;fontColor=#333333;strokeColor=#000000;strokeWidth=2;fillColor=none;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=top;align=center;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;spacing=6;jiggle=0.9;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 40,
-    "h": 40,
     "aspect": "fixed"
   },
   {
