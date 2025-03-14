@@ -138,6 +138,12 @@
     "aspect": "fixed"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;align=center;verticalAlign=middle;endFill=1;labelBackgroundColor=default;endSize=10;sketch=1;jiggle=0.6;disableMultiStroke=1;disableMultiStrokeFill=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#FF6666;strokeWidth=3;startFill=1;orthogonalLoop=0;spacing=6;labelBorderColor=#FFFFFF;perimeterSpacing=0;html=1;spacingLeft=6;strokeColor=#FF6666;shape=connector;curveFitting=1;arcSize=20;simplification=0;shadow=0;fillColor=#000000;glass=0;fillStyle=solid;fontStyle=1;spacingRight=6;snapToPoint=1;rounded=0;curved=1;startSize=10;textShadow=0;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"21\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"96\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 96,
+    "h": 21,
+    "aspect": "fixed"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#333333;fillColor=none;strokeColor=#FF6666;strokeWidth=3;comic=0;sketch=1;jiggle=2;simplification=1;hachureGap=-1;hachureAngle=-44;disableMultiStroke=1;disableMultiStrokeFill=1;fillStyle=solid;pointerEvents=0;arcSize=3;imageAspect=1;glass=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"230\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 230,
     "h": 80,
