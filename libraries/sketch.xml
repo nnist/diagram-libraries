@@ -102,6 +102,12 @@
     "aspect": "fixed"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"correction\" style=\"rounded=0;glass=0;sketch=1;jiggle=0.3;disableMultiStroke=1;disableMultiStrokeFill=1;fillStyle=solid;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=light-dark(#FAFAFF,#FFF9F1);autosize=1;spacing=0;align=center;spacingLeft=4;spacingBottom=0;html=1;spacingRight=4;points=[];shadow=1;fillWeight=-1;hachureGap=4;simplification=1;pointerEvents=1;verticalAlign=middle;shadowOffsetX=1;shadowOffsetY=1;shadowBlur=0;shadowOpacity=15;gradientDirection=north;strokeOpacity=5;overflow=hidden;allowArrows=0;connectable=0;backgroundOutline=0;arcSize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"28\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 28,
+    "aspect": "fixed"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Architects+Daughter&amp;quot; style=&amp;quot;font-size: 18px;&amp;quot; face=&amp;quot;Architects Daughter&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size: 18px;&amp;quot;&amp;gt;Text&amp;lt;/span&amp;gt;&amp;lt;/font&amp;gt;\" style=\"html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=none;checked=0;spacing=8;checkedFill=#FF6666;checkedStroke=#FFFFFF;comic=0;strokeColor=#FF6666;strokeWidth=2;sketch=1;curveFitting=1;jiggle=0.6;fillWeight=0;fillOpacity=100;fillStyle=solid;connectable=1;allowArrows=0;recursiveResize=0;expand=0;rotatable=0;pointerEvents=1;fontSize=18;fontColor=#333333;fontStyle=0\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 20,
     "h": 20,
